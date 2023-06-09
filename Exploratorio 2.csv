@@ -1,4 +1,4 @@
-Sexo productor,Área (Ha),Edad promedio plantas,Densidad (plantas/Ha),Tipo suelo,Latitud,Longitud,Altura,Porcentaje injertación,Aplica poda,Maneja sombra,Fertilización orgánica,Fertilización química,Presencia de plagas/ enfermedades,Recibe AT,Perdidas (qq),Produccion efectiva (qq)
+Sexo productor,Area (Ha),Edad promedio plantas,Densidad (plantas/Ha),Tipo suelo,Latitud,Longitud,Altura,Porcentaje injertacion,Aplica poda,Maneja sombra,Fertilizacion organica,Fertilizacion quimica,Presencia de plagas/ enfermedades,Recibe AT,Perdidas (qq),Produccion efectiva (qq)
 Hombre,3.06,6,653.59,"Latosoles Arcillo Rojizos, Andisoles",13.9117,-89.829,849,0,1,1,Si,Si,0,0,6.59736,31.10096
 Hombre,0.6,5,1000,"Latosoles Arcillo Rojizos, Andisoles",13.477103,-88.559569,812.713379,0,1,1,Si,Si,0,0,0.30888,1.42648
 Hombre,2.19,6,639.27,"Latosoles Arcillo Rojizos, Andisoles",13.9081,-89.8261,882,0,1,1,Si,Si,0,0,2.34168,10.46584
