@@ -1,4 +1,4 @@
-Año;Sexo productor;Area (Ha);Arboles_totales;Edad promedio plantas;Aluviales;Andisoles;Grumosoles;Halomorficos;Latosoles_arcillosos_acidos;Latosoles_arcillo_rojizos;Litosoles;Regosoles;Latitud;Longitud;Altura;Porcentaje_Injertacion;Aplica poda;Maneja sombra;Fertilizacion organica;Fertilizacion quimica;Presencia plagas y enfermedades;recibe AT;Perdidas (qq);Produccion efectiva (qq)
+Year;Sexo productor;Area (Ha);Arboles_totales;Edad promedio plantas;Aluviales;Andisoles;Grumosoles;Halomorficos;Latosoles_arcillosos_acidos;Latosoles_arcillo_rojizos;Litosoles;Regosoles;Latitud;Longitud;Altura;Porcentaje_Injertacion;Aplica poda;Maneja sombra;Fertilizacion organica;Fertilizacion quimica;Presencia plagas y enfermedades;recibe AT;Perdidas (qq);Produccion efectiva (qq)
 1;Hombre;0.7;500.0;12.0;No;No;No;No;Si;Si;No;No;13.3917;-88.5838;665.9;0.00;Si;Si;Si;No;Si;Si;0.28512;5.26
 1;Hombre;0.4;200.0;3.0;Si;Si;No;No;No;No;No;No;13.736948;-89.419094;480;0.00;Si;No;Si;No;No;No;0.04928;0.26928
 1;Hombre;0.6;550.0;8.0;No;Si;No;No;No;No;Si;No;13.618116;-88.8625;922;0.00;Si;Si;Si;Si;Si;No;0.49456;3.09
